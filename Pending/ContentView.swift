@@ -7,18 +7,16 @@
 
 import SwiftUI
 
-struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
-    }
-}
 
-#Preview {
-    ContentView()
-}
+/*
+
+100 Days with SwitUI
+
+1. Day 16 - Day 25
+2. Day 34 - Day 35
+3. Day 37 - Day 38
+ 
+** Revision - Day 0  - Day 48
+ 
+ 
+*/
